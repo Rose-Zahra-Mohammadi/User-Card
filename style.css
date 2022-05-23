@@ -1,32 +1,38 @@
 * {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 .navbar {
     background-color: aqua;
     height: 100px;
-    margin: 0px
 }
 h1{ 
     font-size:50px;
     margin-top: 50px;
+    margin-left: 80px;
 }
 
 .picture img{
+    top: 50px;
     width: 100px;
-    margin-top: 50px;
+    position: relative;
+    margin-left: 80px;
 }
 
 .settings img {
+    top: 5px;
     width: 20px;
-    margin-left: 0px;
+    /* margin-left: 0px; */
+    position: relative;
     
 }
 
 .location img {
     width: 20px;
+    margin-left: 80px;
 }
 
 h3 {
     margin-left: 20px;
+    margin-left: 80px;
 }
